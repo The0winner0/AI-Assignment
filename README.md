@@ -77,5 +77,5 @@ AI_Assignment/
 └── README.md          # Project overview and instructions
 ```
 ## Anuj Sharma CS22B007
-## Advi Venkat sri Narsimha Jyothiraditya
+## Advi Venkat Sri Narsimha Jyothiraditya CS22B002
 ---
