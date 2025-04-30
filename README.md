@@ -37,7 +37,7 @@ Leverage the power of simple heuristics and pruning to play and evaluate chess p
 
 ```bash
 # 1. Clone this repository
-git clone https://github.com/---/AI_Assignment.git
+git clone https://github.com/The0winner0/AI-Assignment.git
 cd AI_Assignment
 
 # 2. Create a virtual environment
@@ -76,5 +76,6 @@ AI_Assignment/
 ├── requirements.txt   # Python package dependencies
 └── README.md          # Project overview and instructions
 ```
-
+##Anuj Sharma CS22B007
+##Advi Venkat sri Narsimha Jyothiraditya
 ---
