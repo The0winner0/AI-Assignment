@@ -1,6 +1,4 @@
-Here’s a professional **README.md** for your **AI_Assignment** repository, using the exact code and filenames you provided:
 
-```markdown
 # AI_Assignment
 
 A Python-based Chess AI framework implementing Minimax and Alpha-Beta pruning search strategies.  
@@ -80,7 +78,3 @@ AI_Assignment/
 ```
 
 ---
-
-
-
-Feel free to adjust any section (e.g. adding your GitHub URL, license file, or advanced usage examples) to match your exact setup.
