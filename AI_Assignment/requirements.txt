@@ -1,0 +1,6 @@
+gym
+gym-chess
+python-chess
+cairosvg
+imageio
+Pillow
