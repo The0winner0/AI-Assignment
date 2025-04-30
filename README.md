@@ -76,6 +76,6 @@ AI_Assignment/
 ├── requirements.txt   # Python package dependencies
 └── README.md          # Project overview and instructions
 ```
-##Anuj Sharma CS22B007
-##Advi Venkat sri Narsimha Jyothiraditya
+## Anuj Sharma CS22B007
+## Advi Venkat sri Narsimha Jyothiraditya
 ---
