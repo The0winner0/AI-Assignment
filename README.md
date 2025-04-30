@@ -1,8 +1,9 @@
 
 # AI_Assignment
 
-A Python-based Chess AI framework implementing Minimax and Alpha-Beta pruning search strategies.  
-Leverage the power of simple heuristics and pruning to play and evaluate chess positions.
+Assignment for Chess AI framework implementing Minimax and Alpha-Beta pruning search strategies.  
+Slides
+[Open Slides](https://docs.google.com/presentation/d/1A549pqeG7qADBszxbrLwBr2roFhwSeCCA7cdDc94_aA/edit?usp=sharing)
 
 ---
 
